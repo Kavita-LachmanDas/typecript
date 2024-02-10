@@ -1,0 +1,14 @@
+//variables
+//there are 3 types of variable
+//1: var 
+//2:let
+//3:const
+//so first we talk about var oky
+//1:var
+//so var is a global scoped variable.
+//var is basically used to make same names of variable,and we can change the value of var like:
+var a = 8
+a = 9
+console.log(a)
+//result: it shows 9 oky
+//so we can change the value of var and amke it with simillar name!
